@@ -1,0 +1,15 @@
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\seminar8task1.csproj.AssemblyReference.cache
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\seminar8task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\seminar8task1.AssemblyInfoInputs.cache
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\seminar8task1.AssemblyInfo.cs
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\seminar8task1.csproj.CoreCompileInputs.cache
+D:\Настя\программ\HW7\task\seminar8task1\bin\Debug\net6.0\seminar8task1.exe
+D:\Настя\программ\HW7\task\seminar8task1\bin\Debug\net6.0\seminar8task1.deps.json
+D:\Настя\программ\HW7\task\seminar8task1\bin\Debug\net6.0\seminar8task1.runtimeconfig.json
+D:\Настя\программ\HW7\task\seminar8task1\bin\Debug\net6.0\seminar8task1.dll
+D:\Настя\программ\HW7\task\seminar8task1\bin\Debug\net6.0\seminar8task1.pdb
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\seminar8task1.dll
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\refint\seminar8task1.dll
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\seminar8task1.pdb
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\seminar8task1.genruntimeconfig.cache
+D:\Настя\программ\HW7\task\seminar8task1\obj\Debug\net6.0\ref\seminar8task1.dll
