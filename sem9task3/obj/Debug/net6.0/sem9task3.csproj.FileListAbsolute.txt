@@ -1,0 +1,15 @@
+D:\Настя\программ\HW7\task\sem9task3\bin\Debug\net6.0\sem9task3.exe
+D:\Настя\программ\HW7\task\sem9task3\bin\Debug\net6.0\sem9task3.deps.json
+D:\Настя\программ\HW7\task\sem9task3\bin\Debug\net6.0\sem9task3.runtimeconfig.json
+D:\Настя\программ\HW7\task\sem9task3\bin\Debug\net6.0\sem9task3.dll
+D:\Настя\программ\HW7\task\sem9task3\bin\Debug\net6.0\sem9task3.pdb
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\sem9task3.csproj.AssemblyReference.cache
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\sem9task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\sem9task3.AssemblyInfoInputs.cache
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\sem9task3.AssemblyInfo.cs
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\sem9task3.csproj.CoreCompileInputs.cache
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\sem9task3.dll
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\refint\sem9task3.dll
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\sem9task3.pdb
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\sem9task3.genruntimeconfig.cache
+D:\Настя\программ\HW7\task\sem9task3\obj\Debug\net6.0\ref\sem9task3.dll
